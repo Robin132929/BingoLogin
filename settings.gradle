@@ -1,0 +1,3 @@
+include ':bingologin'
+include ':app'
+rootProject.name = "BingoLogin"
